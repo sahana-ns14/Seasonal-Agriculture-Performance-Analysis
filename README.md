@@ -1,9 +1,5 @@
 # Seasonal-Agriculture-Performance-Analysis
 VOIS AICTE Major Project focused on analyzing seasonal agricultural performance, identifying trends, patterns, and insights through data analytics and visualization techniques.
-# Seasonal Agriculture Performance Analysis
-
-## Project Overview
-This project analyzes agricultural performance across different seasons using data analytics techniques.
 
 ## Objectives
 - Analyze seasonal trends
